@@ -4,3 +4,6 @@
 [submodule "week2/ai110-module1show-gameglitchinvestigator-starter"]
 	path = week2/ai110-module1show-gameglitchinvestigator-starter
 	url = git@github.com:mprashanth27/ai110-module1show-gameglitchinvestigator-starter.git
+[submodule "week5/ai110-module3tinker-themoodmachine-starter"]
+	path = week5/ai110-module3tinker-themoodmachine-starter
+	url = git@github.com:mprashanth27/ai110-module3tinker-themoodmachine-starter.git
