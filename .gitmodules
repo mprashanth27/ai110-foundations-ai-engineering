@@ -7,3 +7,6 @@
 [submodule "week5/ai110-module3tinker-themoodmachine-starter"]
 	path = week5/ai110-module3tinker-themoodmachine-starter
 	url = git@github.com:mprashanth27/ai110-module3tinker-themoodmachine-starter.git
+[submodule "week4/ai110-module2show-pawpal-starter"]
+	path = week4/ai110-module2show-pawpal-starter
+	url = git@github.com:mprashanth27/ai110-module2show-pawpal-starter.git
