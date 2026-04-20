@@ -10,3 +10,6 @@
 [submodule "week4/ai110-module2show-pawpal-starter"]
 	path = week4/ai110-module2show-pawpal-starter
 	url = git@github.com:mprashanth27/ai110-module2show-pawpal-starter.git
+[submodule "week7/ai110-module3show-musicrecommendersimulation-starter"]
+	path = week7/ai110-module3show-musicrecommendersimulation-starter
+	url = git@github.com:mprashanth27/ai110-module3show-musicrecommendersimulation-starter.git
